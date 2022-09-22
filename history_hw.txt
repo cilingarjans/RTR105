@@ -1,0 +1,16 @@
+  493  sudo apt install git
+  494  gti clone
+  495  git clone
+  496  git clone
+  497  git clone https://github.com/cilingarjans/RTR105
+  498  ls
+  499  cd RTR105
+  500  history
+  501  mkdir abc
+  502  echo 123 > text.txt
+  503  cat text.txt
+  504  rmdir abc
+  505  history
+  506  clear
+  507  histor
+  508  history
