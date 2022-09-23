@@ -1,0 +1,125 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $bash
+    4  ls -lt
+    5  chmod 744 hello-world (111 100 100)
+    6  ls -lt
+    7  cat hello-world
+    8  clear
+    9  nano hello-world
+   10  ls -lt
+   11  cat hello-world
+   12  cd
+   13  pwd
+   14  ls -lt
+   15  chmod 744 hello-world
+   16  ls -lt
+   17  ./hello-world
+   18  /home/user/hello-world
+   19  ls
+   20  cp hello-world /bin/
+   21  whereis ls
+   22  echo $PATH
+   23  PATH=$PATH
+   24  echo $PATH
+   25  PATH=$PATH:/home/users:~:.
+   26  echo $PATH
+   27  clear
+   28  hello-world
+   29  echo $PATH
+   30  clera
+   31  clear
+   32  echo $PATH
+   33  hello-world
+   34  history
+   35  clear
+   36  git clone
+   37  git clone https://github.com/cilingarjans/RTR105
+   38  ls -lt
+   39  mv hello-world RTR105/
+   40  ls -lt
+   41  pwd
+   42  cd RTR105/
+   43  pwd
+   44  ls -lt
+   45  nano git-upload
+   46  ls -lt
+   47  pwd
+   48  nano git-upload
+   49  ls -lt
+   50  chmon 744 git-upload
+   51  chmod 744 git-upload
+   52  history > history_23.txt
+   53  git-clone
+   54  ls -lt
+   55  git-upload
+   56  nano git-upload
+   57  git-upload
+   58  nano git-upload
+   59  git-upload
+   60  clear
+   61  pwd
+   62  cd
+   63  pwd
+   64  ls -lt
+   65  git clone https://github.com/cilingarjans/RTR105
+   66  pwd
+   67  rm -rf RTR105/
+   68  ls -lt
+   69  git clone https://github.com/cilingarjans/RTR105
+   70  cd RTR105/
+   71  pwd
+   72  clear
+   73  pwd
+   74  ls -lt
+   75  cat git-upload
+   76  nano git-upload
+   77  nano linux_special_variables_test.sh
+   78  ls -lt
+   79  ./ linux_special_variables_test.sh 123
+   80  ./ linux_special_variables_test.sh ased as
+   81  nano linux_special_variables_test.sh
+   82  chmod 744 linux_special_variables_test.sh 
+   83  ./ linux_special_variables_test.sh ased as
+   84  ./ linux_special_variables_test.sh
+   85  ./linux_special_variables_test.sh
+   86  ./linux_special_variables_test.sh asdasd asdasd
+   87  ls -lt
+   88  mv linux_special_variables_test.sh  test.sh
+   89  ls -lt
+   90  nano test.sh 
+   91  ls -lt
+   92  ./test.sh 
+   93  cat test.sh 
+   94  ./test.sh 
+   95  ls -lt
+   96  ./test.sh 
+   97  nano test.sh 
+   98  ./test.sh 
+   99  nano test.sh 
+  100  ./test.sh 
+  101  nano test.sh 
+  102  nano git-upload 
+  103  history > history_20220923.txt
+  104  ls -lt
+  105  git-upload 05
+  106  nano git-upload 
+  107  git-upload 05
+  108  nano git-upload 
+  109  git-upload 05
+  110  ls
+  111  echo $?
+  112  lss
+  113  echo $?
+  114  pwdd
+  115  echo $?
+  116  cp hello-world /bin/
+  117  echo $?
+  118  hello-world 
+  119  pwd
+  120  echo $PATH
+  121  hel
+  122  hello-world 
+  123  ./hello-world 
+  124  ./git-upload 05+
+  125  history > history_230922.txt
