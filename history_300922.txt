@@ -1,0 +1,83 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ;s -lt
+    4  clear
+    5  ls -lt
+    6  git clone https://github.com/cilingarjans/RTR105
+    7  ls
+    8  cd RTR105/
+    9  pwd
+   10  ls -lt
+   11  mkdir Class_300922
+   12  cd Class_300922/
+   13  pwd
+   14  ls -lt ../
+   15  cat ../git-upload
+   16  clear
+   17  nano first.c
+   18  ls -lt
+   19  gcc first.c
+   20  ls -lt
+   21  cat a.out
+   22  clear
+   23  ls -lt
+   24  echo $PATH
+   25  a.out
+   26  clear
+   27  pwd
+   28  gcc first.c -o first.out
+   29  ls -lt
+   30  ./first.out
+   31  nano first.c
+   32  gcc first.c -o first.out
+   33  ls -lt
+   34  nano first.c
+   35  gcc first.c -o first.out
+   36  clear
+   37  cd ..
+   38  pwd
+   39  ls -lta
+   40  nano .gitignore
+   41  cd Class_300922/
+   42  ls -lt
+   43  nano first.c
+   44  gcc -save-temps first.c -o first.out
+   45  ls -lt
+   46  cat first.c
+   47  cat first.i
+   48  cat first.s
+   49  cat first.o
+   50  ls -lt
+   51  clear
+   52  echo $?
+   53  a.out
+   54  echo $?
+   55  nano first.c
+   56  gcc -save-temps first.c -o first.out
+   57  ls -lt
+   58  ./first.out 
+   59  gcc -save-temps first.c -o first.out
+   60  nano first.c
+   61  gcc -save-temps first.c -o first.out
+   62  ls -lt
+   63  gcc -save-temps first.c -o first.out
+   64  ./first.out 
+   65  echo$?
+   66  gcc -save-temps first.c -o first.out
+   67  ./first.out 
+   68  echo $?
+   69  clear
+   70  ls -lt
+   71  nano first.c
+   72  gcc -save-temps first.c -o first.out
+   73  ./first.out 
+   74  ls -lt
+   75  cat first.c
+   76  cd ..
+   77  pqwd
+   78  pwd
+   79  ls -lt
+   80  nano gitignore
+   81  nano .gitignore
+   82  history > history_300922/txt
+   83  history > history_300922.txt
