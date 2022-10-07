@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "nsjkdnjkrfv·;.ed[wc.;wč;w./cp;,.p[wdlc;·wsdcp[w,cp[.we;·cwdcl[cplwelcp["
+    4  nano 
+    5  echo "012345\n6789\tabcde\vhbfhefvbh\blmnop\rqr"
+    6  echo -e "012345\n6789\tabcde\vhbfhefvbh\blmnop\rqr"
+    7  echo -e "a\a\a\a\a"
+    8  echo -e "\a\a\a\a\a"
+    9  echo -e "012345\n6789\tabcde\vhbfhefvbh\blmnop\rqr"
+   10  clear
+   11  git clone https://github.com/cilingarjans/RTR105
+   12  pwd
+   13  ls -lt
+   14  mkdir class08
+   15  cd RTR105/
+   16  mkdir class08
+   17  cd class08/
+   18  nano uzdevums.txt
+   19  nano printf_test
+   20  cat printf_test 
+   21  ls -lt
+   22  mv printf_test printf_test.c
+   23  ls -lt
+   24  gcc printf_test.c -o printf_test.out
+   25  ls -lt
+   26  ./printf_test.out 
+   27  nano printf_test.c
+   28  gcc printf_test.c -o printf_test.out
+   29  history > 20221007.txt
